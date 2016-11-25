@@ -109,6 +109,8 @@
 1Chr	I TarIhler
 1Chr	I Tarihler
 1Chr	I Tarİhler
+1Chr	1. Tah
+1Chr	1 Tah
 1Chr	1. Ta
 1Chr	1 Ta
 1Chr	1Chr
@@ -4886,6 +4888,8 @@
 1Cor	I KorİntlIler
 1Cor	I Korİntliler
 1Cor	I Korİntlİler
+1Cor	1. Kor
+1Cor	1 Kor
 1Cor	1. Ko
 1Cor	1 Ko
 1Cor	1Cor
@@ -5409,6 +5413,8 @@
 1John	I. Yuhanna
 1John	1 Yuhanna
 1John	I Yuhanna
+1John	1. Yuh
+1John	1 Yuh
 1John	1. Yu
 1John	1John
 1John	1 Yu
@@ -5598,6 +5604,8 @@
 1Kgs	I. Krallar
 1Kgs	1 Krallar
 1Kgs	I Krallar
+1Kgs	1. Kra
+1Kgs	1 Kra
 1Kgs	1. Kr
 1Kgs	1 Kr
 1Kgs	1Kgs
@@ -5788,6 +5796,8 @@
 1Pet	I. Petrus
 1Pet	1 Petrus
 1Pet	I Petrus
+1Pet	1. Pet
+1Pet	1 Pet
 1Pet	1. Pe
 1Pet	1 Pe
 1Pet	1Pet
@@ -5829,6 +5839,8 @@
 1Sam	I. Samuel
 1Sam	1 Samuel
 1Sam	I Samuel
+1Sam	1. Sam
+1Sam	1 Sam
 1Sam	1. Sa
 1Sam	1 Sa
 1Sam	1Sam
@@ -10162,7 +10174,9 @@
 1Thess	I SelanİklIler
 1Thess	I Selanİkliler
 1Thess	I Selanİklİler
+1Thess	1. Sel
 1Thess	1Thess
+1Thess	1 Sel
 1Thess	1. Se
 1Thess	1 Se
 1Thess	1Se
@@ -11609,6 +11623,12 @@
 1Tim	I TImoteos
 1Tim	I Timoteos
 1Tim	I Tİmoteos
+1Tim	1. TIm
+1Tim	1. Tim
+1Tim	1. Tİm
+1Tim	1 TIm
+1Tim	1 Tim
+1Tim	1 Tİm
 1Tim	1. TI
 1Tim	1. Ti
 1Tim	1. Tİ
@@ -11737,6 +11757,8 @@
 2Chr	2 TarIhler
 2Chr	2 Tarihler
 2Chr	2 Tarİhler
+2Chr	2. Tah
+2Chr	2 Tah
 2Chr	2. Ta
 2Chr	2 Ta
 2Chr	2Chr
@@ -16901,6 +16923,8 @@
 2Cor	2 KorİntlIler
 2Cor	2 Korİntliler
 2Cor	2 Korİntlİler
+2Cor	2. Kor
+2Cor	2 Kor
 2Cor	2. Ko
 2Cor	2 Ko
 2Cor	2Cor
@@ -17466,6 +17490,8 @@
 2John	2. Yuhanna
 2John	II Yuhanna
 2John	2 Yuhanna
+2John	2. Yuh
+2John	2 Yuh
 2John	2. Yu
 2John	2John
 2John	2 Yu
@@ -17670,6 +17696,8 @@
 2Kgs	2. Krallar
 2Kgs	II Krallar
 2Kgs	2 Krallar
+2Kgs	2. Kra
+2Kgs	2 Kra
 2Kgs	2. Kr
 2Kgs	2 Kr
 2Kgs	2Kgs
@@ -17875,6 +17903,8 @@
 2Pet	2. Petrus
 2Pet	II Petrus
 2Pet	2 Petrus
+2Pet	2. Pet
+2Pet	2 Pet
 2Pet	2. Pe
 2Pet	2 Pe
 2Pet	2Pet
@@ -17919,6 +17949,8 @@
 2Sam	2. Samuel
 2Sam	II Samuel
 2Sam	2 Samuel
+2Sam	2. Sam
+2Sam	2 Sam
 2Sam	2. Sa
 2Sam	2 Sa
 2Sam	2Sam
@@ -22603,7 +22635,9 @@
 2Thess	2 SelanİklIler
 2Thess	2 Selanİkliler
 2Thess	2 Selanİklİler
+2Thess	2. Sel
 2Thess	2Thess
+2Thess	2 Sel
 2Thess	2. Se
 2Thess	2 Se
 2Thess	2Se
@@ -24167,6 +24201,12 @@
 2Tim	2 TImoteos
 2Tim	2 Timoteos
 2Tim	2 Tİmoteos
+2Tim	2. TIm
+2Tim	2. Tim
+2Tim	2. Tİm
+2Tim	2 TIm
+2Tim	2 Tim
+2Tim	2 Tİm
 2Tim	2. TI
 2Tim	2. Ti
 2Tim	2. Tİ
@@ -24487,6 +24527,8 @@
 3John	Üc Yuhanna
 3John	Üç Yuhanna
 3John	3 Yuhanna
+3John	3. Yuh
+3John	3 Yuh
 3John	3. Yu
 3John	3John
 3John	3 Yu
@@ -25406,6 +25448,7 @@ Eph	Efesoslular
 Eph	EfeslIler
 Eph	Efesliler
 Eph	Efeslİler
+Eph	Efes
 Eph	Efe
 Eph	Eph
 Eph	Ef
@@ -35365,6 +35408,7 @@ Ps	Mezmurlar
 Ps	Mezmur
 Ps	Zebur
 Ps	Mez
+Ps	Mz
 Ps	Ps
 Rev	VahIy
 Rev	Vahiy

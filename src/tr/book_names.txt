@@ -25248,6 +25248,30 @@ Acts	Elçİlerİn İslerİ
 Acts	Elçİlerİn İşlerI
 Acts	Elçİlerİn İşleri
 Acts	Elçİlerİn İşlerİ
+Acts	Elc. Is
+Acts	Elc. Iş
+Acts	Elc. is
+Acts	Elc. iş
+Acts	Elc. İs
+Acts	Elc. İş
+Acts	Elç. Is
+Acts	Elç. Iş
+Acts	Elç. is
+Acts	Elç. iş
+Acts	Elç. İs
+Acts	Elç. İş
+Acts	Elc Is
+Acts	Elc Iş
+Acts	Elc is
+Acts	Elc iş
+Acts	Elc İs
+Acts	Elc İş
+Acts	Elç Is
+Acts	Elç Iş
+Acts	Elç is
+Acts	Elç iş
+Acts	Elç İs
+Acts	Elç İş
 Acts	Acts
 Acts	Elc
 Acts	Elç

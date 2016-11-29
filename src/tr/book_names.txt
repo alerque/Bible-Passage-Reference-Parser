@@ -25395,9 +25395,11 @@ Deut	Yasanın TekrarI
 Deut	Yasanın Tekrari
 Deut	Yasanın Tekrarİ
 Deut	Yasanın Tekrarı
+Deut	Yas. Tek
 Deut	TesnIye
 Deut	Tesniye
 Deut	Tesnİye
+Deut	Yas Tek
 Deut	Deut
 Deut	Yas
 Eccl	Eccl

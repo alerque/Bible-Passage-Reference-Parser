@@ -18,16 +18,16 @@ Gen	Yarat[İiı]l[İiı]ş	Başlang[İiı]ç	Tekv[İi]n	Baş	Yar
 Exod	M[İiı]s[İiı]r'?dan Ç[İiı]k[İiı]ş	Ç[İiı]k[İiı]ş	Ç[İiı]k
 Lev	Lev[İi]l[İi]ler	Lev
 Num	Çölde Say[İiı]m	Say[İiı]lar	Say
-Deut	(Yasa'?n[İiı]n|Kunun'?un) Tekrar[İiı]	Tesn[İi]ye	Yas. Tek.	Yas
+Deut	(Yasa'?n[İiı]n|Kunun'?un) Tekrar[İiı]	Tesn[İi]ye	Yas Tek	Yas
 Josh	Yeşu	Yşu
 Judg	H[aâ]k[İi]mler	Hak
 Ruth	Rut	Rut
-1Sam	$FIRST Samuel	1. Sa
-2Sam	$SECOND Samuel	2. Sa
-1Kgs	$FIRST K[İiı]?rallar	1. Kr
-2Kgs	$SECOND K[İiı]?rallar	2. Kr
-1Chr	$FIRST Tar[İi]hler	1. Ta
-2Chr	$SECOND Tar[İi]hler	2. Ta
+1Sam	$FIRST Samuel	$FIRST Sam	$FIRST Sa
+2Sam	$SECOND Samuel	$SECOND Sam	$SECOND Sa
+1Kgs	$FIRST K[İiı]?rallar	$FIRST Kra	$FIRST Kr
+2Kgs	$SECOND K[İiı]?rallar	$SECOND Kra	$SECOND Kr
+1Chr	$FIRST Tar[İi]hler	$FIRST Tah	$FIRST Ta
+2Chr	$SECOND Tar[İi]hler	$SECOND Tah	$SECOND Ta
 Ezra	Ezra	Ezr
 Neh	Nehemya	Neh
 Esth	Ester	Est
@@ -57,27 +57,27 @@ Matt	Matta$GOSPEL	Matta	Mat
 Mark	Markos$GOSPEL	Markos	Mar
 Luke	Luka$GOSPEL	Luka	Luk
 John	Yuhanna$GOSPEL	Yuhanna	Yuh	Yu
-Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	Elç. [İi]ş.	Elç.
+Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	Elç [İi]ş	Elç
 Rom	(Pavlus'?tan )?Romal[İiı]lar('?a Mektup)?	Rom
-1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	1. Kor	1. Ko
-2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	2. Kor	2. Ko
+1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	$FIRST Kor	$FIRST Ko
+2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	$SECOND Kor	$SECOND Ko
 Gal	(Pavlus'?tan )?Galatyal[İiı]lar('?a Mektup)?	Gal
 Eph	(Pavlus'?tan )?Efesl[İi]ler('?e Mektup)?	Efesoslular('?a Mektup)?	Efe	Ef
 Phil	(Pavlus'?tan )?F[İi]l[İi]p[İi]l[İi]ler('?e Mektup)?	Flp
 Col	(Pavlus'?tan )?Kolosel[İi]ler('?e Mektup)?	Kol
-1Thess	$FIRST Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $FIRST Mektup	1. Sel	1. Se
-2Thess	$SECOND Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $SECOND Mektup	2. Sel	2. Se
-1Tim	$FIRST T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	1. T[İi]m	1. Tim	1. T[İi]
-2Tim	$SECOND T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	2. T[İi]m	2. Tim	2. T[İi]
+1Thess	$FIRST Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $FIRST Mektup	$FIRST Sel	$FIRST Se
+2Thess	$SECOND Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $SECOND Mektup	$SECOND Sel	$SECOND Se
+1Tim	$FIRST T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	$FIRST T[İi]m	$FIRST Tim	$FIRST T[İi]
+2Tim	$SECOND T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	$SECOND T[İi]m	$SECOND Tim	$SECOND T[İi]
 Titus	(Pavlus'?tan )?T[İi]t[uo]s('?a Mektup)?	T[İi]t
 Phlm	(Pavlus'?tan )?F[İi]l[İi]mon('?a Mektup)?	Flm
 Heb	[İi]bran[İi]ler('?e Mektup)?	[İi]br
 Jas	Yakup	Yaku[bp]'?un Mektubu	Yak
-1Pet	$FIRST Petrus	Petrus'?un $FIRST Mektubu	1. Pet	1. Pe
-2Pet	$SECOND Petrus	Petrus'?un $SECOND Mektubu	2. Pet	2. Pe
-1John	$FIRST Yuhanna	Yuhanna'?n[İiı]n $FIRST Mektubu	1. Yuh	1. Yu
-2John	$SECOND Yuhanna	Yuhanna'?n[İiı]n $SECOND Mektubu	2. Yuh	2. Yu
-3John	$THIRD Yuhanna	Yuhanna'?n[İiı]n $THIRD Mektubu	3. Yuh	3. Yu
+1Pet	$FIRST Petrus	Petrus'?un $FIRST Mektubu	$FIRST Pet	$FIRST Pe
+2Pet	$SECOND Petrus	Petrus'?un $SECOND Mektubu	$SECOND Pet	$SECOND Pe
+1John	$FIRST Yuhanna	Yuhanna'?n[İiı]n $FIRST Mektubu	$FIRST Yuh	$FIRST Yu
+2John	$SECOND Yuhanna	Yuhanna'?n[İiı]n $SECOND Mektubu	$SECOND Yuh	$SECOND Yu
+3John	$THIRD Yuhanna	Yuhanna'?n[İiı]n $THIRD Mektubu	$THIRD Yuh	$THIRD Yu
 Jude	Yahuda('?n[İiı]n Mektubu)?	Yah
 Rev	Vah[İi]y	Vah	Va
 Tob	Tob[İi]t

@@ -57,7 +57,7 @@ Matt	Matta$GOSPEL	Matta	Mat
 Mark	Markos$GOSPEL	Markos	Mar
 Luke	Luka$GOSPEL	Luka	Luk
 John	Yuhanna$GOSPEL	Yuhanna	Yuh	Yu
-Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	Elç
+Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	Elç. [İi]ş.	Elç.
 Rom	(Pavlus'?tan )?Romal[İiı]lar('?a Mektup)?	Rom
 1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	1. Kor	1. Ko
 2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	2. Kor	2. Ko

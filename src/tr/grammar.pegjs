@@ -160,7 +160,7 @@ sequence_sep
     { return "" }
 
 range_sep
-  = sp ([\-\u2013\u2014] sp / [İIi]i "le" sp )+
+  = sp ([\-\u2013\u2014] sp / [İIi]i "la" sp )+
 
 title
   = (cv_sep / sequence_sep)? val:"ba" [şs]i "l" [İIiı]i "k"

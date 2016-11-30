@@ -63,7 +63,7 @@ Rom	(Pavlus'?tan )?Romal[İiı]lar('?a Mektup)?	Rom
 2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	$SECOND Kor	$SECOND Ko
 Gal	(Pavlus'?tan )?Galatyal[İiı]lar('?a Mektup)?	Gal
 Eph	(Pavlus'?tan )?Efesl[İi]ler('?e Mektup)?	Efesoslular('?a Mektup)?	Efe	Ef
-Phil	(Pavlus'?tan )?F[İi]l[İi]p[İi]l[İi]ler('?e Mektup)?	Flp
+Phil	(Pavlus'?tan )?F[İi]l[İi]p[İi]l[İi]ler('?e Mektup)?	Fil	Flp
 Col	(Pavlus'?tan )?Kolosel[İi]ler('?e Mektup)?	Kol
 1Thess	$FIRST Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $FIRST Mektup	$FIRST Sel	$FIRST Se
 2Thess	$SECOND Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $SECOND Mektup	$SECOND Sel	$SECOND Se

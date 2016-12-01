@@ -107,7 +107,7 @@ c
 
 // No `b` or `ps151`.
 ff
-  = val_1:(bcv / bcv_weak / bc / bv / cv / cv_weak / integer / c / v) sp ( "vs" / "vd" ) abbrev? ![a-z]
+  = val_1:(bcv / bcv_weak / bc / bv / cv / cv_weak / integer / c / v) sp ( "vdm" / "vd" ) abbrev? ![a-z]
     { return {"type": "ff", "value": [val_1], "indices": [peg$savedPos, peg$currPos - 1]} }
 
 integer_title
@@ -132,7 +132,7 @@ ps151_bcv
     { return {"type": "bcv", "value": [val_1, {"type": "v", "value": [val_2], "indices": [val_2.indices[0], val_2.indices[1]]}], "indices": [peg$savedPos, peg$currPos - 1]} }
 
 v_letter
-  = v_explicit? val:integer sp !( ( "vs" / "vd" ) ) [b-e] ![a-z]
+  = v_explicit? val:integer sp !( ( "vdm" / "vd" ) ) [b-e] ![a-z]
     { return {"type": "v", "value": [val], "indices": [peg$savedPos, peg$currPos - 1]} }
 
 v
@@ -160,7 +160,7 @@ sequence_sep
     { return "" }
 
 range_sep
-  = sp ([\-\u2013\u2014] sp / [İIi]i "la" sp )+
+  = sp ([\-\u2013\u2014] sp / [İIi]i "la" sp / "–"i sp )+
 
 title
   = (cv_sep / sequence_sep)? val:"ba" [şs]i "l" [İIiı]i "k"

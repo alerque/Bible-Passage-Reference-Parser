@@ -33,7 +33,7 @@ Neh	Nehemya	Neh
 Esth	Ester	Est
 Job	Eyü[pb]	Eyü
 Ps	Mezmurlar	Zebur	Mezmur	Mez
-Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	Meseller	Özd
+Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S Özdey[İi]ş(ler[İi])?	Meseller	Özd
 Eccl	Va[İi]z	Va[İi]
 Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Ezg
 Isa	Yeşaya	[İi]şaya	Yşa
@@ -57,18 +57,18 @@ Matt	Matta$GOSPEL	Matta	Mat
 Mark	Markos$GOSPEL	Markos	Mar
 Luke	Luka$GOSPEL	Luka	Luk
 John	Yuhanna$GOSPEL	Yuhanna	Yuh	Yu
-Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	Elç [İi]ş	Elç
+Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	E [İi]şler[İi]	Elç [İi]ş	Elç
 Rom	(Pavlus'?tan )?Romal[İiı]lar('?a Mektup)?	Rom
-1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	$FIRST Kor	$FIRST Ko
-2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	$SECOND Kor	$SECOND Ko
+1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	$FIRST Kor[İi]nt	$FIRST Kor	$FIRST Ko
+2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	$SECOND Kor[İi]nt	$SECOND Kor	$SECOND Ko
 Gal	(Pavlus'?tan )?Galatyal[İiı]lar('?a Mektup)?	Gal
 Eph	(Pavlus'?tan )?Efesl[İi]ler('?e Mektup)?	Efesoslular('?a Mektup)?	Efe	Ef
 Phil	(Pavlus'?tan )?F[İi]l[İi]p[İi]l[İi]ler('?e Mektup)?	Fil	Flp
 Col	(Pavlus'?tan )?Kolosel[İi]ler('?e Mektup)?	Kol
 1Thess	$FIRST Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $FIRST Mektup	$FIRST Sel	$FIRST Se
 2Thess	$SECOND Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $SECOND Mektup	$SECOND Sel	$SECOND Se
-1Tim	$FIRST T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	$FIRST T[İi]m	$FIRST Tim	$FIRST T[İi]
-2Tim	$SECOND T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	$SECOND T[İi]m	$SECOND Tim	$SECOND T[İi]
+1Tim	$FIRST T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	$FIRST T[İi]mot	$FIRST T[İi]m	$FIRST T[İi]
+2Tim	$SECOND T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	$SECOND T[İi]mot	$SECOND T[İi]m	$SECOND T[İi]
 Titus	(Pavlus'?tan )?T[İi]t[uo]s('?a Mektup)?	T[İi]t
 Phlm	(Pavlus'?tan )?F[İi]l[İi]mon('?a Mektup)?	Flm
 Heb	[İi]bran[İi]ler('?e Mektup)?	[İi]br

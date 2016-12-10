@@ -7,7 +7,7 @@ $GOSPEL	'?y?a Göre [İi]nc[İi]l	'?n?[İiıu]n [İi]nc[İi]l[İi]	[İi]nc[İi]l
 $AB	[b-e]
 $AND	ve
 $CHAPTER	baplar	bap	bp.	bölümler	bölüm	bö.
-$FF	vs	vd
+$FF	vb	vs	vdm	vd
 $TITLE	başl[İiı]k
 $TRANS	YC	YC1998,YC	YC2001,YC	YC2008,YC	YC2009,YC	TKK,YC	KM	TC	COS,TC	CAN	TSV	HAD[İI]
 $TO	[İi]la	–

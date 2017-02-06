@@ -141,7 +141,7 @@ v
 
 /* BCV helpers */
 c_explicit
-  = sp ( "b" ( "aplar" / "ap" / "p" abbrev? / [öo]i "l" [üu]i "mler" / [öo]i "l" [üu]i "m" / [öo]i  abbrev? ) ) sp
+  = sp ( "b" ( "aplar" / "ap" / "lm" abbrev? / "p" abbrev? / [öo]i "l" [üu]i "mler" / [öo]i "l" [üu]i "m" / [öo]i "l?" abbrev? ) ) sp
     { return {"type": "c_explicit"} }
 
 v_explicit

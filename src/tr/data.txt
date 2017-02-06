@@ -67,8 +67,8 @@ Phil	(Pavlus'?tan )?F[İi]l[İi]p[İi]l[İi]ler('?e Mektup)?	Fil	Flp
 Col	(Pavlus'?tan )?Kolosel[İi]ler('?e Mektup)?	Kol
 1Thess	$FIRST Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $FIRST Mektup	$FIRST Sel	$FIRST Se
 2Thess	$SECOND Selan[İi]kl[İi]ler	(Pavlus'?tan )?Selan[İi]kl[İi]ler'?e $SECOND Mektup	$SECOND Sel	$SECOND Se
-1Tim	$FIRST T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	$FIRST T[İi]mot	$FIRST T[İi]m	$FIRST T[İi]
-2Tim	$SECOND T[İi]moteos	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	$SECOND T[İi]mot	$SECOND T[İi]m	$SECOND T[İi]
+1Tim	$FIRST T[İi]mote(o|yu)s	(Pavlus'?tan )?T[İi]moteos'?a $FIRST Mektup	$FIRST T[İi]mot	$FIRST T[İi]m	$FIRST T[İi]
+2Tim	$SECOND T[İi]mote(o|yu)s	(Pavlus'?tan )?T[İi]moteos'?a $SECOND Mektup	$SECOND T[İi]mot	$SECOND T[İi]m	$SECOND T[İi]
 Titus	(Pavlus'?tan )?T[İi]t[uo]s('?a Mektup)?	T[İi]t
 Phlm	(Pavlus'?tan )?F[İi]l[İi]mon('?a Mektup)?	Flm
 Heb	[İi]bran[İi]ler('?e Mektup)?	[İi]br

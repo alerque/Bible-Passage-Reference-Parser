@@ -18,7 +18,7 @@ Gen	Yarat[İiı]l[İiı]ş	Başlang[İiı]ç	Tekv[İi]n	Tek	Baş	Yar
 Exod	M[İiı]s[İiı]r'?dan Ç[İiı]k[İiı]ş	Ç[İiı]k[İiı]ş	Ç[İiı]k
 Lev	Lev[İi]l[İi]ler	Lev
 Num	Çölde Say[İiı]m	Say[İiı]lar	Say
-Deut	(Yasa'?n[İiı]n|Kunun'?un) Tekrar[İiı]	Tesn[İi]ye	Yas Tek	Yas
+Deut	(Yasa'?n[İiı]n|Kunun'?un) Tekrar[İiı]	Tesn[İi]ye	Yas. Tek	Yas
 Josh	Yeşu	Yşu
 Judg	H[aâ]k[İi]mler	Hak
 Ruth	Rut	Rut
@@ -33,9 +33,9 @@ Neh	Nehemya	Neh
 Esth	Ester	Est	Es
 Job	Eyü[pb]	Eyü
 Ps	Mezmurlar	Zebur	Mezmur	Mez
-Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S Özdey[İi]ş(ler[İi])?	Meseller	Özd
+Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S(ül.)? Mes(eller[İi])?	S(ül)?. Özd(ey[İi]ş(ler[İi])?)?	Meseller	Özd
 Eccl	Va[İi]z	Va[İi]
-Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Ezg
+Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Neş	Ezg
 Isa	Yeşaya	[İi]şa(ya)?	Yşa
 Jer	Yeremya	Yeremya'n[İiı]n Mers[İi]yeler[İi]	Yer
 Lam	Ağ[İiı]t(lar)?	Yeremya'?n[İiı]n Mers[İi]yeler[İi]	Ağ[İiı]
@@ -57,7 +57,7 @@ Matt	Matta$GOSPEL	Matta	Mat
 Mark	Markos$GOSPEL	Markos	Mar
 Luke	Luka$GOSPEL	Luka	Luk
 John	Yuhanna$GOSPEL	Yuhanna	Yuh	Yu
-Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	E [İi]şler[İi]	Elç [İi]şl?	Elç
+Acts	Elç[İi]ler[İi]n [İi]şler[İi]	(Kutsal )?Resuller[İi]n [İi]şler[İi]	Haberc[İi]ler[İi]n [İi]şler[İi]	Havar[İi]ler[İi]n Faal[İi]yetler[İi]	E. [İi]şler[İi]	Elç. [İi]şl?	Elç
 Rom	(Pavlus'?tan )?Romal[İiı]lar('?a Mektup)?	Rom
 1Cor	$FIRST Kor[İi]ntl[İi]ler	$FIRST Kor[İi]ntoslular	Kor[İi]ntoslular'?a $FIRST Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $FIRST Mektup	$FIRST Kor[İi]nt	$FIRST Kor	$FIRST Ko
 2Cor	$SECOND Kor[İi]ntl[İi]ler	$SECOND Kor[İi]ntoslular	Kor[İi]ntoslular'?a $SECOND Mektup	(Pavlus'?tan )?Kor[İi]ntl[İi]ler'?e $SECOND Mektup	$SECOND Kor[İi]nt	$SECOND Kor	$SECOND Ko

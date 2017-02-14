@@ -27463,6 +27463,18 @@ Acts	E İslerİ
 Acts	E İşlerI
 Acts	E İşleri
 Acts	E İşlerİ
+Acts	Elc Isl
+Acts	Elc Işl
+Acts	Elc isl
+Acts	Elc işl
+Acts	Elc İsl
+Acts	Elc İşl
+Acts	Elç Isl
+Acts	Elç Işl
+Acts	Elç isl
+Acts	Elç işl
+Acts	Elç İsl
+Acts	Elç İşl
 Acts	Elc Is
 Acts	Elc Iş
 Acts	Elc is
@@ -27683,6 +27695,7 @@ Eph	Ef
 Esth	Ester
 Esth	Esth
 Esth	Est
+Esth	Es
 Exod	MIsIr'dan CIkIs
 Exod	MIsIr'dan CIkIş
 Exod	MIsIr'dan CIkis
@@ -30954,12 +30967,14 @@ Gen	Tekvİn
 Gen	Bas
 Gen	Baş
 Gen	Gen
+Gen	Tek
 Gen	Yar
 GkEsth	Yunanca Ester
 GkEsth	Grekce Ester
 GkEsth	Grekçe Ester
 GkEsth	GkEsth
 Hab	Habakkuk
+Hab	Habakuk
 Hab	Hab
 Hag	Haggay
 Hag	Hagay
@@ -31004,6 +31019,8 @@ Heb	Heb
 Heb	Ibr
 Heb	ibr
 Heb	İbr
+Hos	Hoseya
+Hos	Hoşeya
 Hos	Hosea
 Hos	Hoşea
 Hos	Hos
@@ -31017,8 +31034,13 @@ Isa	işaya
 Isa	İsaya
 Isa	İşaya
 Isa	Isa
+Isa	Işa
 Isa	Ysa
 Isa	Yşa
+Isa	isa
+Isa	işa
+Isa	İsa
+Isa	İşa
 Jas	Yakub'un Mektubu
 Jas	Yakub’un Mektubu
 Jas	Yakup'un Mektubu
@@ -31032,6 +31054,78 @@ Jdt	YudIt
 Jdt	Yudit
 Jdt	Yudİt
 Jdt	Jdt
+Jer	Yeremya'nIn MersIyelerI
+Jer	Yeremya'nIn MersIyeleri
+Jer	Yeremya'nIn MersIyelerİ
+Jer	Yeremya'nIn MersiyelerI
+Jer	Yeremya'nIn Mersiyeleri
+Jer	Yeremya'nIn Mersiyelerİ
+Jer	Yeremya'nIn MersİyelerI
+Jer	Yeremya'nIn Mersİyeleri
+Jer	Yeremya'nIn Mersİyelerİ
+Jer	Yeremya'nin MersIyelerI
+Jer	Yeremya'nin MersIyeleri
+Jer	Yeremya'nin MersIyelerİ
+Jer	Yeremya'nin MersiyelerI
+Jer	Yeremya'nin Mersiyeleri
+Jer	Yeremya'nin Mersiyelerİ
+Jer	Yeremya'nin MersİyelerI
+Jer	Yeremya'nin Mersİyeleri
+Jer	Yeremya'nin Mersİyelerİ
+Jer	Yeremya'nİn MersIyelerI
+Jer	Yeremya'nİn MersIyeleri
+Jer	Yeremya'nİn MersIyelerİ
+Jer	Yeremya'nİn MersiyelerI
+Jer	Yeremya'nİn Mersiyeleri
+Jer	Yeremya'nİn Mersiyelerİ
+Jer	Yeremya'nİn MersİyelerI
+Jer	Yeremya'nİn Mersİyeleri
+Jer	Yeremya'nİn Mersİyelerİ
+Jer	Yeremya'nın MersIyelerI
+Jer	Yeremya'nın MersIyeleri
+Jer	Yeremya'nın MersIyelerİ
+Jer	Yeremya'nın MersiyelerI
+Jer	Yeremya'nın Mersiyeleri
+Jer	Yeremya'nın Mersiyelerİ
+Jer	Yeremya'nın MersİyelerI
+Jer	Yeremya'nın Mersİyeleri
+Jer	Yeremya'nın Mersİyelerİ
+Jer	Yeremya’nIn MersIyelerI
+Jer	Yeremya’nIn MersIyeleri
+Jer	Yeremya’nIn MersIyelerİ
+Jer	Yeremya’nIn MersiyelerI
+Jer	Yeremya’nIn Mersiyeleri
+Jer	Yeremya’nIn Mersiyelerİ
+Jer	Yeremya’nIn MersİyelerI
+Jer	Yeremya’nIn Mersİyeleri
+Jer	Yeremya’nIn Mersİyelerİ
+Jer	Yeremya’nin MersIyelerI
+Jer	Yeremya’nin MersIyeleri
+Jer	Yeremya’nin MersIyelerİ
+Jer	Yeremya’nin MersiyelerI
+Jer	Yeremya’nin Mersiyeleri
+Jer	Yeremya’nin Mersiyelerİ
+Jer	Yeremya’nin MersİyelerI
+Jer	Yeremya’nin Mersİyeleri
+Jer	Yeremya’nin Mersİyelerİ
+Jer	Yeremya’nİn MersIyelerI
+Jer	Yeremya’nİn MersIyeleri
+Jer	Yeremya’nİn MersIyelerİ
+Jer	Yeremya’nİn MersiyelerI
+Jer	Yeremya’nİn Mersiyeleri
+Jer	Yeremya’nİn Mersiyelerİ
+Jer	Yeremya’nİn MersİyelerI
+Jer	Yeremya’nİn Mersİyeleri
+Jer	Yeremya’nİn Mersİyelerİ
+Jer	Yeremya’nın MersIyelerI
+Jer	Yeremya’nın MersIyeleri
+Jer	Yeremya’nın MersIyelerİ
+Jer	Yeremya’nın MersiyelerI
+Jer	Yeremya’nın Mersiyeleri
+Jer	Yeremya’nın Mersiyelerİ
+Jer	Yeremya’nın MersİyelerI
+Jer	Yeremya’nın Mersİyeleri
+Jer	Yeremya’nın Mersİyelerİ
 Jer	Yeremya
 Jer	Jer
 Jer	Yer
@@ -37687,9 +37781,11 @@ Ps	Zebur
 Ps	Mez
 Ps	Mz
 Ps	Ps
+Rev	Esinleme
 Rev	VahIy
 Rev	Vahiy
 Rev	Vahİy
+Rev	Esin
 Rev	Rev
 Rev	Vah
 Rev	Va

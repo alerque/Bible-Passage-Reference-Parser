@@ -14,7 +14,7 @@ $TO	[İi]la	–
 $VERSE	a.`	ayet[İi]	ayet
 $UNICODE_BLOCK	Latin
 
-Gen	Yarat[İiı]l[İiı]ş	Başlang[İiı]ç	Tekv[İi]n	Baş	Yar
+Gen	Yarat[İiı]l[İiı]ş	Başlang[İiı]ç	Tekv[İi]n	Tek	Baş	Yar
 Exod	M[İiı]s[İiı]r'?dan Ç[İiı]k[İiı]ş	Ç[İiı]k[İiı]ş	Ç[İiı]k
 Lev	Lev[İi]l[İi]ler	Lev
 Num	Çölde Say[İiı]m	Say[İiı]lar	Say
@@ -30,25 +30,25 @@ Ruth	Rut	Rut
 2Chr	$SECOND Tar[İi]hler	$SECOND Tah	$SECOND Ta
 Ezra	Ezra	Ezr
 Neh	Nehemya	Neh
-Esth	Ester	Est
+Esth	Ester	Est	Es
 Job	Eyü[pb]	Eyü
 Ps	Mezmurlar	Zebur	Mezmur	Mez
 Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S Özdey[İi]ş(ler[İi])?	Meseller	Özd
 Eccl	Va[İi]z	Va[İi]
 Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Ezg
 Isa	Yeşaya	[İi]şa(ya)?	Yşa
-Jer	Yeremya	Yer
+Jer	Yeremya	Yeremya'n[İiı]n Mers[İi]yeler[İi]	Yer
 Lam	Ağ[İiı]t(lar)?	Yeremya'?n[İiı]n Mers[İi]yeler[İi]	Ağ[İiı]
 Ezek	Hezek[İi]el	Hez
 Dan	Dan[İi]el	Dan
-Hos	Hoşea	Hoş
+Hos	Hoşey?a	Hoş
 Joel	Yoel	Yoe
 Amos	Amos	Amo
 Obad	O[vb]adya	Ova
 Jonah	Yunus	Yun
 Mic	M[İi]ka	M[İi]k
 Nah	Nahum	Nah
-Hab	Habakkuk	Hab
+Hab	Habakk?uk	Hab
 Zeph	Sefanya	Tsefanya	Sef
 Hag	Hagg?ay	Hag
 Zech	Zek[ea]r[İi]?ya	Zek
@@ -79,7 +79,7 @@ Jas	Yakup	Yaku[bp]'?un Mektubu	Yak
 2John	$SECOND Yuhanna	Yuhanna'?n[İiı]n $SECOND Mektubu	$SECOND Yuh	$SECOND Yu
 3John	$THIRD Yuhanna	Yuhanna'?n[İiı]n $THIRD Mektubu	$THIRD Yuh	$THIRD Yu
 Jude	Yahuda('?n[İiı]n Mektubu)?	Yah
-Rev	Vah[İi]y	Vah	Va
+Rev	Vah[İi]y	Esin(leme)?	Vah	Va
 Tob	Tob[İi]t
 Jdt	Yud[İi]t
 GkEsth	Grekçe Ester	Yunanca Ester

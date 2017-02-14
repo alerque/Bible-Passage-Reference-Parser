@@ -36,7 +36,7 @@ Ps	Mezmurlar	Zebur	Mezmur	Mez
 Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S Özdey[İi]ş(ler[İi])?	Meseller	Özd
 Eccl	Va[İi]z	Va[İi]
 Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Ezg
-Isa	Yeşaya	[İi]şaya	Yşa
+Isa	Yeşaya	[İi]şa(ya)?	Yşa
 Jer	Yeremya	Yer
 Lam	Ağ[İiı]t(lar)?	Yeremya'?n[İiı]n Mers[İi]yeler[İi]	Ağ[İiı]
 Ezek	Hezek[İi]el	Hez

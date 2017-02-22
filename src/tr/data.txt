@@ -38,7 +38,7 @@ Eccl	Va[İi]z	Va[İi]
 Song	Ezg[İi]ler Ezg[İi]s[İi]	Neş[İi]deler Neş[İi]des[İi]	Neş	Ezg
 Isa	Yeşaya	[İi]şa(ya)?	Yşa
 Jer	Yeremya	Yeremya'n[İiı]n Mers[İi]yeler[İi]	Yer
-Lam	Ağ[İiı]t(lar)?	Yeremya'?n[İiı]n Mers[İi]yeler[İi]	Ağ[İiı]
+Lam	Ağ[İiı]t(lar)?	Yeremya'?n[İiı]n Mers[İi]yeler[İi]	Yer. M(er)?.	Ağ[İiı]
 Ezek	Hezek[İi]el	Hez
 Dan	Dan[İi]el	Dan
 Hos	Hoşey?a	Hoş

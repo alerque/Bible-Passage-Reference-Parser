@@ -26,8 +26,8 @@ Ruth	Rut	Rut
 2Sam	$SECOND Samuel	$SECOND Sam	$SECOND Sa
 1Kgs	$FIRST K[İiı]?rallar	$FIRST Kra	$FIRST Kr
 2Kgs	$SECOND K[İiı]?rallar	$SECOND Kra	$SECOND Kr
-1Chr	$FIRST Tar[İi]hler	$FIRST Tah	$FIRST Ta
-2Chr	$SECOND Tar[İi]hler	$SECOND Tah	$SECOND Ta
+1Chr	$FIRST Tar[İi]hler	$FIRST Ta[hr]?
+2Chr	$SECOND Tar[İi]hler	$SECOND Ta[hr]?
 Ezra	Ezra	Ezr
 Neh	Nehemya	Neh
 Esth	Ester	Est	Es

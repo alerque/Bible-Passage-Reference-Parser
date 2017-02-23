@@ -31,7 +31,7 @@ Ruth	Rut	Rut
 Ezra	Ezra	Ezr
 Neh	Nehemya	Neh
 Esth	Ester	Est	Es
-Job	Eyü[pb]	Eyü
+Job	Eyü[pb]	Eyü?
 Ps	Mezmurlar	Zebur	Mezmur	Mez
 Prov	Süleyman'?[İiı]n Özdey[İi]şler[İi]	Süleyman'?[İiı]n Meseller[İi]	S(ül.)? Mes(eller[İi])?	S(ül)?. Özd(ey[İi]şler[İi])?	S(ül)?. Özd(ey[İi]l[İi])?	Meseller	Özd
 Eccl	Va[İi]z	Va[İi]
